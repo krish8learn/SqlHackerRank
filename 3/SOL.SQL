@@ -1,0 +1,8 @@
+/*
+Query all columns (attributes) for every row in the CITY table.
+Select All
+The CITY table is described as follows:
+*/
+
+/* SOLUTION */
+SELECT * FROM CITY;
